@@ -1,0 +1,6 @@
+@import './base.css';
+html {
+  background-color: rgb(62, 59, 59);
+  color: white;
+  font-size: 30px;
+}
